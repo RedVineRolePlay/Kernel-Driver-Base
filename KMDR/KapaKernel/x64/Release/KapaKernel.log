@@ -1,0 +1,4 @@
+﻿  Building 'KapaKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  memory.cpp
+process.obj : error LNK2019: unresolved external symbol "long __cdecl WritePhysicalMemory(void *,void *,unsigned __int64,unsigned __int64 *)" (?WritePhysicalMemory@@YAJPEAX0_KPEA_K@Z) referenced in function "long __cdecl HandleReadRequest(struct _ReadWriteRequest *)" (?HandleReadRequest@@YAJPEAU_ReadWriteRequest@@@Z)
+C:\Users\ander\Desktop\KapaKernel\x64\Release\KapaKernel.sys : fatal error LNK1120: 1 unresolved externals

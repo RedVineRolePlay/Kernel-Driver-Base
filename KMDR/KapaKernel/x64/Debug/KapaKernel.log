@@ -1,0 +1,15 @@
+﻿  Building 'KapaKernel' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  entry.cpp
+  memory.cpp
+  paging.cpp
+  process.cpp
+  Generating Code...
+  KapaKernel.vcxproj -> C:\Users\KapaServices\source\repos\KapaKernel\x64\Debug\KapaKernel.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\KapaServices\source\repos\KapaKernel\x64\Debug\KapaKernel.sys
+  
+  Driver is 'Universal'.
+  Inf2Cat task was skipped as there were no inf files to process
+  
+  DrvCat task was skipped as there was no catalog file to process
+  

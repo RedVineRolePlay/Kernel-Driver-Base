@@ -1,0 +1,4 @@
+C:\Users\ander\Desktop\KapaKernel\KapaKernel\main\entry.cpp;C:\Users\ander\Desktop\KapaKernel\KapaKernel\x64\Release\entry.obj
+C:\Users\ander\Desktop\KapaKernel\KapaKernel\memory\memory.cpp;C:\Users\ander\Desktop\KapaKernel\KapaKernel\x64\Release\memory.obj
+C:\Users\ander\Desktop\KapaKernel\KapaKernel\paging\paging.cpp;C:\Users\ander\Desktop\KapaKernel\KapaKernel\x64\Release\paging.obj
+C:\Users\ander\Desktop\KapaKernel\KapaKernel\process\process.cpp;C:\Users\ander\Desktop\KapaKernel\KapaKernel\x64\Release\process.obj
